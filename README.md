@@ -1,2 +1,2 @@
-# ML_Studycamp
+# Machine_learning_notes
 For ML projects
